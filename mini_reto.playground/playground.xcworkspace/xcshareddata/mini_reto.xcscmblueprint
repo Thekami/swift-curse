@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "92C60D3A7E8790B2912D41CC4C672C2CD8028677",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2597B095623C4F92D63C7EB301268460288F8D24" : 0,
+    "92C60D3A7E8790B2912D41CC4C672C2CD8028677" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F2C47710-DC8E-4761-B290-C6AD43AD95AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2597B095623C4F92D63C7EB301268460288F8D24" : "",
+    "92C60D3A7E8790B2912D41CC4C672C2CD8028677" : "swift%20curse\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mini_reto",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mini_reto.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Thekami\/workspace-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2597B095623C4F92D63C7EB301268460288F8D24"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Thekami\/swift-curse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "92C60D3A7E8790B2912D41CC4C672C2CD8028677"
+    }
+  ]
+}

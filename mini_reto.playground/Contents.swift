@@ -1,4 +1,4 @@
-var rango = 1...100
+var rango = 0...100
 
 for n in rango{
     
